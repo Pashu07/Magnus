@@ -1,0 +1,18 @@
+.main-nav-one .logo-box{
+	padding: 1px 0;
+}
+
+.cta-two::before{
+	content: inherit;
+}
+
+.brand-one__home-one::before{
+	content: inherit;
+}
+.cta-three__feature-box{
+	padding-left: 25px;
+	padding-right: 25px;
+}
+.cta-two h3{
+	font-size: 30px;
+}
